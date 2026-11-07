@@ -1,16 +1,16 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "The witness for your AI coding agents",
     "homepage": "https://github.com/maxsignalhq/Sakshi",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/maxsignalhq/Sakshi/releases/download/v0.3.0/sakshi-v0.3.0-x86_64-pc-windows-msvc.zip",
-            "hash": "ef765f2b8be1c9c8782924e1d3890e35cc34832961047d376d79262af1407702"
+            "url": "https://github.com/maxsignalhq/Sakshi/releases/download/v0.4.0/sakshi-v0.4.0-x86_64-pc-windows-msvc.zip",
+            "hash": "d5e8fdbf4ce1b191254a93daa6a10f1b71c7a4c783f4114378a453727461c84a"
         },
         "arm64": {
-            "url": "https://github.com/maxsignalhq/Sakshi/releases/download/v0.3.0/sakshi-v0.3.0-aarch64-pc-windows-msvc.zip",
-            "hash": "ff6424cacd44af4aa37b5e4c214c977f34c5575ce09d01c804e1e59431758a89"
+            "url": "https://github.com/maxsignalhq/Sakshi/releases/download/v0.4.0/sakshi-v0.4.0-aarch64-pc-windows-msvc.zip",
+            "hash": "f85592930caa82f91306bc7f930474cf342f3cadceaffaea3a0126b2940ba548"
         }
     },
     "bin": "sakshi.exe",
